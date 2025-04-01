@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bad guy_0: 3635694558510998903
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
